@@ -16,14 +16,10 @@
 
 <!-- ![](https://github.com/blackcater/blackcater/raw/main/images/Hi.gif) -->
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Java+code+learning
-.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Java+code+learning.)](https://git.io/typing-svg)
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=A+passionate+backend+developer)](https://git.io/typing-svg)
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=alekseypetkun&label=Profile%20views&color=0e75b6&style=flat" alt="alekseypetkun" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=alekseypetkun" alt="alekseypetkun" /></a> </p>
 
 - 👨‍💻 All of my projects are available at [public projects](https://github.com/kaerlaende?tab=repositories "repositories")
 
